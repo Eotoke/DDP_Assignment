@@ -24,6 +24,7 @@ shinyUI( pageWithSidebar(
     h3("Instructions:"),
     p("Using linear regression on mtcars dataset, this application demonstrates and predicts how mpg changes with the 4 key variables (hp, wt, am, cyl).
       To see the prediction, please adjust the values in the side bar accordingly."),
+    p("Full Code is available at https://github.com/Eotoke/DDP_Assignment"),
     br(),
     h3("Results of Miles Per Hour (mph) prediction"),
     h4("You entered:"),
